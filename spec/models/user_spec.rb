@@ -32,7 +32,11 @@ RSpec.describe User, type: :model do
   end
 
   describe '.authenticate_with_credentials' do
-    # examples for this class method here
+    it "is a valid user if their email and password has been authenticated" do
+      @user = User.create(name: 'Yoyo', email: 'TEST@TEST.com', password: '654321', password_confirmation: '654321')
+      user1 = User.authenticate_with_credentials(@user.email, @user.password)
+      expect(user1).to be_truthy
+    end 
   end
 
 end
