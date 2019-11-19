@@ -1,6 +1,7 @@
 require 'rails_helper'
 
 RSpec.describe User, type: :model do
+
   describe 'Validations' do
 
     it "is valid with valid attributes" do
@@ -29,4 +30,9 @@ RSpec.describe User, type: :model do
       expect(user).to be_valid
     end
   end
+
+  describe '.authenticate_with_credentials' do
+    # examples for this class method here
+  end
+
 end
