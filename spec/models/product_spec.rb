@@ -1,7 +1,8 @@
 require 'rails_helper'
 
-# Should hav five examples defined given that you have four validations
+# Should have five examples defined given that you have four validations
 RSpec.describe Product, type: :model do
+
   describe 'Validations' do
 
     it "is valid with valid attributes" do
@@ -49,6 +50,7 @@ RSpec.describe Product, type: :model do
       puts subject.errors.full_messages
     end
   end
+  
 end
 
 
