@@ -3,8 +3,6 @@ require 'rails_helper'
 # Should hav five examples defined given that you have four validations
 RSpec.describe Product, type: :model do
   describe 'Validations' do
-    # validation tests/examples here
-    # subject { described_class.new }
 
     it "is valid with valid attributes" do
       @category = Category.new
