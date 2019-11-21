@@ -18,7 +18,7 @@
 
 ###### Bug: Checking Out with Empty Cart
 
-!["description"](url)
+!["Empty Cart"](https://github.com/mariahfernnn/jungle-rails/blob/master/docs/empty-cart.png?raw=true)
 
 ## Setup
 
