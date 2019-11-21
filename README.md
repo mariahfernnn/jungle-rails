@@ -19,7 +19,7 @@
 
 ###### Bug: Checking Out with Empty Cart
 
-!["Empty Cart"](https://github.com/mariahfernnn/jungle-rails/blob/master/docs/empty-cart.png?raw=true)
+!["Empty Cart"](https://github.com/mariahfernnn/jungle-rails/blob/master/docs/empty-cart-new.png?raw=true)
 
 ## Setup
 
