@@ -1,7 +1,24 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+**Jungle** is a mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+## Screenshots
+
+###### Feature: Sold Out Badge
+
+!["description"](url)
+
+###### Feature: Admin Categories
+
+!["description"](url)
+
+###### Enhancement: Order Details Page
+
+!["description"](url)
+
+###### Bug: Checking Out with Empty Cart
+
+!["description"](url)
 
 ## Setup
 
