@@ -6,15 +6,16 @@
 
 ###### Feature: Sold Out Badge
 
-!["description"](url)
+!["Sold Out Badge"](https://github.com/mariahfernnn/jungle-rails/blob/master/docs/sold-out-badge.png?raw=true)
 
 ###### Feature: Admin Categories
 
-!["description"](url)
+!["Category List"](https://github.com/mariahfernnn/jungle-rails/blob/master/docs/admin-categories.png?raw=true)
+!["Create a new category"](https://github.com/mariahfernnn/jungle-rails/blob/master/docs/create-category.png?raw=true)
 
 ###### Enhancement: Order Details Page
 
-!["description"](url)
+!["Order Details"](https://github.com/mariahfernnn/jungle-rails/blob/master/docs/order-details.png?raw=true)
 
 ###### Bug: Checking Out with Empty Cart
 
